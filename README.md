@@ -1,1 +1,5 @@
-Sprzedam src ziemniaka DM discord!
+#Developerzy
+- PlayKId
+
+#Sponsorzy:
+- Fajny Pikachu
