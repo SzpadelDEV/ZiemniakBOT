@@ -1,5 +1,5 @@
-#Developerzy
+# Developerzy
 - PlayKId
 
-#Sponsorzy:
+# Sponsorzy:
 - Fajny Pikachu
