@@ -1,5 +1,1 @@
-"# ZiemniakBOT" 
-"# ZiemniakBOT" 
-# ZiemniakBOT
-# ZiemniakBOT
-kox
+Sprzedam src ziemniaka DM discord!
