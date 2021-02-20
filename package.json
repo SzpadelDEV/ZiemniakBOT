@@ -1,0 +1,25 @@
+{
+  "name": "ziemniaczkibot",
+  "version": "1.0.0",
+  "description": "BOT ZIEMNIACZKI!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "ziemniaczki",
+    "bot",
+    "playkid"
+  ],
+  "author": "PlayKid",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord-slash-commands-client": "^1.1.1",
+    "discord.js": "^12.5.1",
+    "mc-achievements": "^1.2.0",
+    "mc-player-api": "^1.0.0",
+    "minecraft-server-util": "^3.4.2",
+    "pokeapi-js-wrapper": "^1.2.0"
+  }
+}
